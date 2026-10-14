@@ -1,0 +1,14 @@
+[
+  {"nombre": "Argentina", "capital": "Buenos Aires", "poblacion": 46000000, "idioma": "Español", "moneda": "Peso argentino"},
+  {"nombre": "Bolivia", "capital": "Sucre", "poblacion": 12400000, "idioma": "Español", "moneda": "Boliviano"},
+  {"nombre": "Brasil", "capital": "Brasilia", "poblacion": 212000000, "idioma": "Portugués", "moneda": "Real"},
+  {"nombre": "Chile", "capital": "Santiago", "poblacion": 19600000, "idioma": "Español", "moneda": "Peso chileno"},
+  {"nombre": "Colombia", "capital": "Bogotá", "poblacion": 52000000, "idioma": "Español", "moneda": "Peso colombiano"},
+  {"nombre": "Ecuador", "capital": "Quito", "poblacion": 18000000, "idioma": "Español", "moneda": "Dólar estadounidense"},
+  {"nombre": "Guyana", "capital": "Georgetown", "poblacion": 800000, "idioma": "Inglés", "moneda": "Dólar guyanés"},
+  {"nombre": "Paraguay", "capital": "Asunción", "poblacion": 6800000, "idioma": "Español", "moneda": "Guaraní"},
+  {"nombre": "Perú", "capital": "Lima", "poblacion": 34000000, "idioma": "Español", "moneda": "Sol"},
+  {"nombre": "Surinam", "capital": "Paramaribo", "poblacion": 620000, "idioma": "Neerlandés", "moneda": "Dólar surinamés"},
+  {"nombre": "Uruguay", "capital": "Montevideo", "poblacion": 3400000, "idioma": "Español", "moneda": "Peso uruguayo"},
+  {"nombre": "Venezuela", "capital": "Caracas", "poblacion": 28000000, "idioma": "Español", "moneda": "Bolívar"}
+]
